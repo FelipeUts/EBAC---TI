@@ -109,7 +109,6 @@ int deletar()
 	}
 	
 
-
 }
 
 int main()
@@ -159,14 +158,11 @@ int main()
 			printf("Essa opcão não está disponivel!\n");
 			system("pause");
 			break;
-			
-				
+							
 		}
 	
-	
-		
-	
     }
+    
 } 
 
 
